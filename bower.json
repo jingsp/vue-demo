@@ -1,0 +1,36 @@
+{
+  "name": "dmb",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "shuyuqiong@adtime.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery-ui": "jqueryui#^1.12.0",
+    "handlebars": "^4.0.5",
+    "javascript-md5": "^2.3.0",
+    "jquery.cookie": "^1.4.1",
+    "ng-dialog": "^0.6.2",
+    "jquery.placeholder": "^0.2.4",
+    "js-md5": "md5#^0.4.1",
+    "ngstorage": "^0.3.11",
+    "d3-cloud": "^1.2.2",
+    "echarts": "^3.2.3",
+    "twbs-pagination": "https://github.com/esimakin/twbs-pagination.git#^1.4.1",
+    "echarts-wordcloud": "https://github.com/ecomfe/echarts-wordcloud.git#^1.0.2",
+    "highcharts": "^5.0.7",
+    "select2": "^4.0.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "layer": "^3.0.3"
+  }
+}
